@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Linux Command Line'
-categories: 'Linux-Terminal'
+title: 'Chapter 01 - Markdown Introduction'
+categories: [Markdown Course]
 ---
 
-# This is the First Post of this Website
+# This is a Markdown Course
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ornare ipsum quis consequat placerat. Nulla facilisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce non ligula vitae risus tempus ullamcorper. Nunc non ipsum sit amet justo congue commodo. Donec bibendum turpis vitae felis sodales consequat. Nullam rhoncus arcu at ligula vestibulum, id dictum ante vestibulum. Curabitur sed sapien et odio sagittis accumsan. Vivamus vitae fermentum justo, vel dignissim dolor. Sed malesuada leo vel purus sodales, ut placerat nulla mattis. Integer ullamcorper arcu vitae eros lobortis tincidunt.
 
