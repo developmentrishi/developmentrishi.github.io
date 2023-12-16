@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Linux Command Line'
-categories: 'Linux Terminal'
+categories: 'Linux-Terminal'
 ---
 
 # This is the First Post of this Website
