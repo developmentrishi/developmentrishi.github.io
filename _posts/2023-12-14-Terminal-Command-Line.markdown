@@ -1,9 +1,6 @@
 ---
 layout: post
-title: First Test Post
-date: 2023-12-14 12:00:00 -500
-categories: [tech, linux, bash, shell, terminal]
-tags: [linux-terminal, shell, bash]
+title: 'Linux Command Line'
 ---
 
 # This is the First Post of this Website
